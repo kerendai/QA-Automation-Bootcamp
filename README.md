@@ -1,22 +1,10 @@
-# QA Automation Bootcamp
+# QA Automation Bootcamp (Practice)
 
-This repository contains hands-on exercises and mini-projects
-for practicing Python and Git in the context of QA Automation.
-
-## Topics Covered
-
-- Python basics (functions, loops, classes)
-- Exception handling
-- Git workflows
-- CI/CD fundamentals
+Personal practice repo for refreshing Python and Git for QA automation.
 
 ## Structure
+- `day1_python/` – Python basics (functions, classes, exceptions)
 
-Day 1 - Python basics  
-Day 2 - OOP practice  
-Day 3 - Git workflow  
-...
-
-## Goals
-
-Build strong automation foundations and practical DevOps skills.
+## How to run
+```bash
+python day1_python/python_refresh.py
