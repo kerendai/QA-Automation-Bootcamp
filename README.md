@@ -57,7 +57,3 @@ Make sure Selenium is installed:
 
 ```bash
 pip install selenium
-
-python selenium_open_server.py
-python selenium_finding_elements.py
-python Selenium_first_practice.py
